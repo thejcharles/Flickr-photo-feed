@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Create React App and Node.js/Express.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please see README.md in server directory for server setup
 
 ## Available Scripts
 
